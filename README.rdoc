@@ -1,6 +1,6 @@
 = deploy-utils
 
-Description goes here.
+Supplies a bunch of functionality. Install on the server to which you are deployings.
 
 == Copyright
 
